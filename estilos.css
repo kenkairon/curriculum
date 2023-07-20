@@ -1,0 +1,11 @@
+body{
+    background-color: blueviolet;   
+}
+img {
+    border-radius: 25px;
+    
+}
+p{
+    text-shadow:25px;
+    text-align:right;
+}
